@@ -1,0 +1,40 @@
+body{
+    background-image: linear-gradient(to right, #d7d2cc 0%, #304352 100%);
+}
+
+*{
+    color: rgba(0, 0, 0, 0.551);
+}
+#btnUpdate{
+    display: none;
+}
+
+footer {
+
+    text-align: center;
+    width: 100%;
+    padding-bottom: 5%;
+   background-image: linear-gradient(60deg, #29323c 0%, #485563 100%);
+    
+ }
+
+
+ footer p{
+    
+    color: rgba(240, 248, 255, 0.722);
+ }
+
+ footer h4{
+    color: #d7d2cc;
+ }
+
+footer img{
+    width: 30px;
+    height: 30px;
+}
+
+footer button{
+    padding: 0;
+    margin: 0;
+
+}
